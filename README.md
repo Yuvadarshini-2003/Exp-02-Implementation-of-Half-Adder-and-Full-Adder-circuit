@@ -70,7 +70,6 @@ endmodule
 ## Truthtable:
 ![OUTPUT](3.jpg)
 ## Timing Diagram:
-![OUTPUT](4.jpg)
 ![OUTPUT](5.jpg)
 
 
@@ -82,7 +81,6 @@ endmodule
 ## Truthtable:
 ![OUTPUT](8.jpg)
 ## Timing Diagram:
-![OUTPUT](9.jpg)
 ![OUTPUT](10.jpg)
 
 ### Result:
